@@ -1,6 +1,7 @@
 # Hey there! 👋 I'm Ammar Ahmed
 
-!https://ammarahmed-git.github.io/sample_app/
+![Portfolio](https://ammarahmed-git.github.io/sample_app/)
+
 
 ### CS Graduate & Full-Stack Developer from 🇵🇰 Pakistan
 
