@@ -85,3 +85,5 @@ Currently grinding hard on **Python** and diving deep into **AI / ML / Deep Lear
 ---
 
 *Always learning, always building — currently on a mission into AI/ML.* 🚀
+
+[![☕ Coffee Consumed](https://img.shields.io/badge/☕%20Coffee%20Consumed-999%2B%20cups%20and%20counting...-6F4E37?style=for-the-badge&labelColor=1a1a1a)](mailto:Innoxentammar27@gmail.com)
