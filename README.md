@@ -1,21 +1,7 @@
 # Hey there! 👋 I'm Ammar Ahmed
-
-# My PortFolio
-<!-- From Uiverse.io by StealthWorm --> 
-<button type="button" class="btn">
-  <strong>
-  <a href="https://ammarahmed-git.github.io/Portfolio/#">Let's go!</a>
-
-  </strong>
-  <div id="container-stars">
-    <div id="stars"></div>
-  </div>
-
-  <div id="glow">
-    <div class="circle"></div>
-    <div class="circle"></div>
-  </div>
-</button>
+<a href="https://ammarahmed-git.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/🚀%20MY%20PORTFOLIO-Click%20to%20Explore!-ff6b6b?style=for-the-badge&labelColor=000000&logoColor=white" alt="Portfolio" />
+</a>
 
 
 ### CS Graduate & Full-Stack Developer from 🇵🇰 Pakistan
