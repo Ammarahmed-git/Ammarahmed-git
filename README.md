@@ -54,7 +54,7 @@ Currently grinding hard on **Python** and diving deep into **AI / ML / Deep Lear
 
 ### 📊 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-readme-stats-three-gray-81.vercel.app/api?username=ammarahmed-git&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
