@@ -62,18 +62,8 @@ Currently grinding hard on **Python** and diving deep into **AI / ML / Deep Lear
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Ammarahmed-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammarahmed-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ammarahmed-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammarahmed-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-
-</div>
 
 <div align="center">
 
