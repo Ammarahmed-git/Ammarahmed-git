@@ -59,6 +59,40 @@ Currently grinding hard on **Python** and diving deep into **AI / ML / Deep Lear
   <img src="https://github-readme-stats-three-gray-81.vercel.app/api/top-langs/?username=ammarahmed-git&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ammarahmed-git&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ammarahmed-git&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ammarahmed-git&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="48%" />
+
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Ammarahmed-git&theme=tokyonight&no-frame=true&row=1&column=6)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ammarahmed-git&theme=tokyo-night&hide_border=true&area=true)
+
+</div>
 ---
 
 ### 📫 Where to find me
